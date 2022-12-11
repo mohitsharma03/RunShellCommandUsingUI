@@ -9,7 +9,7 @@ creating ui interface to run shell commands in localhost or any remote server
 sudo apt install nodejs: to install nodejs
 node -v or node –version: to check nodejs version
 
-sudo apt install npm; to install npm(node package manager)
+sudo apt install npm: to install npm(node package manager)
 npm -v or npm –version: to check npm version
 
 ------------------------------------------------------------------
