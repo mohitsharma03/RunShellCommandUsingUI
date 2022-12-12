@@ -4,7 +4,7 @@ creating ui interface to run shell commands in localhost or any remote server
 **nodejs** and **express** are used in the backend
 
 ------------------------------------------------------------------
-**Setting up the system:**
+**Setting up the system(One-time):**
 
 sudo apt install nodejs: to install nodejs
 
@@ -17,7 +17,7 @@ sudo apt install npm: to install npm(node package manager)
 npm -v or npm –version: to check npm version
 
 ------------------------------------------------------------------
-**We ran these commands inside project folder:**
+**We ran these commands inside project folder(Do it onetime after u clone this project):**
 
 npm init
 
